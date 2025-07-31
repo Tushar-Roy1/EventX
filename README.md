@@ -1,6 +1,6 @@
 # 🎉 EventX
 
-> A modern and responsive event management web application.
+> An event management web application.
 
 ---
 
@@ -31,5 +31,20 @@
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/EventX.git
+# Step 1: Clone the repo
+git clone https://github.com/Tushar-Roy1/EventX.git
+
+# Step 2: Go into the project folder
 cd EventX
+
+# Step 3: Set up and run the backend
+cd api
+npm install
+npm run server
+
+# (In a new terminal/tab)
+# Step 4: Set up and run the frontend
+cd ../client
+npm install
+npm run dev
+
