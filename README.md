@@ -6,7 +6,7 @@
 
 ## 📌 Project Definition
 
-**EventX** is a full-stack event management platform designed to allow users to create, view, and manage events effortlessly. It features user authentication, event posting, and responsive design for both desktop and mobile users. Admin users can manage events and perform backend operations securely.
+**EventX** is a full-stack event management platform designed to allow users to create, view, and manage events effortlessly. It features user authentication, event posting, and responsive design for both desktop and mobile users.
 
 ---
 
